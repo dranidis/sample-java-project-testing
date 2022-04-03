@@ -1,4 +1,6 @@
-# mockitotest
+# Sample java maven project with testing
+
+Uses junit4, mockito, jacoco
 
 ## How to use
 
